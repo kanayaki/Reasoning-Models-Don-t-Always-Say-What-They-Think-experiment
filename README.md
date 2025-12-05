@@ -1,7 +1,7 @@
 # Reasoning-Models-Don-t-Always-Say-What-They-Think-experiment
 воспроизведение эксперимента по статье "Reasoning Models Don't Always Say What They Think" для ниса лингвистическая интерпретация моделей
 
-опишу файлы:
+используемые файлы:
 
 1. ```gpqa-diamond-qa-selection.json``` - вопросы GPQA на основе которых делаются промпты
 
